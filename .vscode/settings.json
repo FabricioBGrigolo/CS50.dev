@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    ".env": "dockercompose",
+    ".env ": "plaintext",
+    "stdio.h": "c"
+  }
+}
